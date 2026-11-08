@@ -1,6 +1,6 @@
 {
   "project": "مشروع تصريف مياه الأمطار - شركة اليمامة",
-  "updated_at": "2026-11-08T14:21:57.604Z",
+  "updated_at": "2026-11-08T14:22:44.199Z",
   "supervisors": [
     "م. عبدالله (إشراف ميداني)",
     "مشرف الطوارئ والأمطار 1",
@@ -38,7 +38,9 @@
       "gdrive_view_url": "https://drive.google.com/file/d/1iOzh0OlqaKP3PIs0QuCAHBYWjdu74STg/view",
       "gdrive_folder_url": "https://drive.google.com/drive/folders/1-xCrWzQVnzgeLH2jkwFd6Wpfbb1goXZM",
       "storage_provider": "github+gdrive",
-      "updated_at": "2026-11-08T14:21:57.082Z"
+      "updated_at": "2026-11-08T14:21:57.082Z",
+      "trashed": true,
+      "trashed_at": "2026-11-08T14:22:43.545Z"
     },
     {
       "id": "gis_1794131880588_xgomj",
@@ -67,7 +69,9 @@
       "gdrive_file_id": "1FJwfeK89R2en3Glk0G7-5dfNL9EEa1A3",
       "gdrive_view_url": "https://drive.google.com/file/d/1FJwfeK89R2en3Glk0G7-5dfNL9EEa1A3/view",
       "gdrive_folder_url": "https://drive.google.com/drive/folders/1-xCrWzQVnzgeLH2jkwFd6Wpfbb1goXZM",
-      "storage_provider": "github+gdrive"
+      "storage_provider": "github+gdrive",
+      "trashed": true,
+      "trashed_at": "2026-11-08T14:22:43.545Z"
     },
     {
       "id": "gis_1794131882748_5rw0u",
@@ -95,7 +99,9 @@
       "gdrive_file_id": "1LOoI4IRqW3UVvne9_C2bUXN1S4HcGi8n",
       "gdrive_view_url": "https://drive.google.com/file/d/1LOoI4IRqW3UVvne9_C2bUXN1S4HcGi8n/view",
       "gdrive_folder_url": "https://drive.google.com/drive/folders/1-xCrWzQVnzgeLH2jkwFd6Wpfbb1goXZM",
-      "storage_provider": "github+gdrive"
+      "storage_provider": "github+gdrive",
+      "trashed": true,
+      "trashed_at": "2026-11-08T14:22:43.545Z"
     },
     {
       "id": "gis_1794131885001_st3kd",
@@ -123,7 +129,9 @@
       "gdrive_file_id": "1dcCdTN1xWrVCapiNXN7TzydElc6vHyhi",
       "gdrive_view_url": "https://drive.google.com/file/d/1dcCdTN1xWrVCapiNXN7TzydElc6vHyhi/view",
       "gdrive_folder_url": "https://drive.google.com/drive/folders/1-xCrWzQVnzgeLH2jkwFd6Wpfbb1goXZM",
-      "storage_provider": "github+gdrive"
+      "storage_provider": "github+gdrive",
+      "trashed": true,
+      "trashed_at": "2026-11-08T14:22:43.545Z"
     },
     {
       "id": "gis_1794127681454_fpkyv",
