@@ -1,6 +1,6 @@
 {
   "project": "مشروع تصريف مياه الأمطار - شركة اليمامة",
-  "updated_at": "2026-11-08T14:08:53.029Z",
+  "updated_at": "2026-11-08T14:21:39.469Z",
   "supervisors": [
     "م. عبدالله (إشراف ميداني)",
     "مشرف الطوارئ والأمطار 1",
@@ -37,7 +37,9 @@
       "gdrive_file_id": "1iOzh0OlqaKP3PIs0QuCAHBYWjdu74STg",
       "gdrive_view_url": "https://drive.google.com/file/d/1iOzh0OlqaKP3PIs0QuCAHBYWjdu74STg/view",
       "gdrive_folder_url": "https://drive.google.com/drive/folders/1-xCrWzQVnzgeLH2jkwFd6Wpfbb1goXZM",
-      "storage_provider": "github+gdrive"
+      "storage_provider": "github+gdrive",
+      "trashed": true,
+      "trashed_at": "2026-11-08T14:21:38.784Z"
     },
     {
       "id": "gis_1794131880588_xgomj",
