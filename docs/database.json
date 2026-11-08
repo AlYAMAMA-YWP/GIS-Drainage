@@ -1,15 +1,41 @@
 {
   "project": "مشروع تصريف مياه الأمطار - شركة اليمامة",
-  "updated_at": "2026-11-08T09:59:40.950Z",
+  "updated_at": "2026-11-08T11:08:22.638Z",
   "supervisors": [
     "م. عبدالله (إشراف ميداني)",
     "مشرف الطوارئ والأمطار 1",
     "مشرف الطوارئ والأمطار 2",
     "مشرف شبكات التصريف (الخطوط والمناهل)",
     "فريق المساحة والـ GIS",
-    "رامي"
+    "رامي",
+    "أحمد"
   ],
   "photos": [
+    {
+      "id": "gis_1794136100729_uxy84",
+      "folder_date": "2026-11-08",
+      "upload_timestamp": "2026-11-08T11:08:20.729Z",
+      "capture_date": "2026-11-08T11:06:32.000Z",
+      "supervisor": "أحمد",
+      "category": "rain_event",
+      "category_label": "حالة مطرية / تجمع مياه",
+      "location_ref": "",
+      "notes": "",
+      "latitude": 21.812859,
+      "longitude": 39.046117,
+      "altitude": 12.4,
+      "utm_zone": "37Q",
+      "utm_easting": 504766,
+      "utm_northing": 2412114,
+      "gps_source": "GPS الجهاز المباشر (Live)",
+      "camera_model": "Xiaomi 23129RN51X",
+      "original_name": "17941359851675456576080534685667.jpg",
+      "file_name": "2026-11-08_أحمد_mw7qb3t5_mnrl.jpg",
+      "repo_path": "uploads/2026-11-08/2026-11-08_أحمد_mw7qb3t5_mnrl.jpg",
+      "remote_url": "https://raw.githubusercontent.com/AlYAMAMA-YWP/GIS-Drainage/main/uploads/2026-11-08/2026-11-08_أحمد_mw7qb3t5_mnrl.jpg",
+      "storage_provider": "github",
+      "stamped": false
+    },
     {
       "id": "gis_1794131878646_ll0xn",
       "folder_date": "2026-11-08",
@@ -231,5 +257,14 @@
   "meta": {
     "updated_at": "2026-11-08T10:29:15.883Z",
     "storage_mode": "lean-cloud-v2"
+  },
+  "gis_pin": "1234",
+  "gdrive_config": {
+    "enabled": true,
+    "webappUrl": "https://script.google.com/macros/s/AKfycbxcunkCB9mWaAA_EBdpJs3d-nYCvZEegCsXV0IqNfsIwtLz_fwy6sJfmkdmne20rlLOSw/exec",
+    "folderId": "",
+    "mode": "auto_overflow",
+    "overflowThreshold": 80,
+    "rootFolderUrl": ""
   }
 }
