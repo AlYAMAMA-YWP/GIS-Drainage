@@ -299,7 +299,7 @@
   },
   "gis_pin": "OCTVIC1234",
   "gdrive_config": {
-    "enabled": false,
+    "enabled": true,
     "webappUrl": "https://script.google.com/macros/s/AKfycbwJDR5t6TfH6J2rQZO_2nJVHynHM-7qPhgV_Uv-mWfcRWH7aeTmDA9t391Zpv056RN1XA/exec",
     "folderId": "",
     "mode": "auto_overflow",
