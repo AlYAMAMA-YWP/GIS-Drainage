@@ -1,6 +1,6 @@
 {
   "project": "مشروع تصريف مياه الأمطار - شركة اليمامة",
-  "updated_at": "2026-11-08T11:21:44.691Z",
+  "updated_at": "2026-11-08T14:07:06.830Z",
   "supervisors": [
     "م. عبدالله (إشراف ميداني)",
     "مشرف الطوارئ والأمطار 1",
@@ -11,6 +11,31 @@
     "أحمد"
   ],
   "photos": [
+    {
+      "id": "gis_1794146825343_p3hu6",
+      "folder_date": "2026-11-08",
+      "upload_timestamp": "2026-11-08T14:07:05.343Z",
+      "capture_date": "2026-11-08T14:06:51.000Z",
+      "supervisor": "مشرف الطوارئ والأمطار 1",
+      "category": "rain_event",
+      "category_label": "حالة مطرية / تجمع مياه",
+      "location_ref": "",
+      "notes": "",
+      "latitude": 21.812861,
+      "longitude": 39.0461263,
+      "altitude": 12.5,
+      "utm_zone": "37Q",
+      "utm_easting": 504767,
+      "utm_northing": 2412114,
+      "gps_source": "GPS أقمار صناعية دقيق (±11.8م)",
+      "camera_model": "samsung Galaxy A56 5G",
+      "original_name": "17941468080612617570495133551004.jpg",
+      "file_name": "2026-11-08_مشرف_الطوارئ_والأمطا_mw7wp0re_6ghj.jpg",
+      "repo_path": "uploads/2026-11-08/2026-11-08_مشرف_الطوارئ_والأمطا_mw7wp0re_6ghj.jpg",
+      "remote_url": "https://raw.githubusercontent.com/AlYAMAMA-YWP/GIS-Drainage/main/uploads/2026-11-08/2026-11-08_مشرف_الطوارئ_والأمطا_mw7wp0re_6ghj.jpg",
+      "storage_provider": "github",
+      "stamped": false
+    },
     {
       "id": "gis_1794136100729_uxy84",
       "folder_date": "2026-11-08",
