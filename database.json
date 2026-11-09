@@ -166,5 +166,13 @@
                           "mode":  "auto_overflow",
                           "overflowThreshold":  80,
                           "rootFolderUrl":  "https://drive.google.com/drive/folders/1h-VWN18PFHapR3zL9UbDPFXd3ij7zuYu"
+                      },
+    "backup_config":  {
+                          "autoBackupEnabled":  true,
+                          "frequency":  "daily",
+                          "syncDriveOnBackup":  true,
+                          "lastBackupAt":  "2026-11-09T06:47:01.390Z",
+                          "lastBackupFolderDate":  "2026-11-09",
+                          "lastBackupCount":  null
                       }
 }
