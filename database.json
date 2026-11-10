@@ -1,6 +1,6 @@
 {
   "project": "مشروع تصريف مياه الأمطار - شركة اليمامة",
-  "updated_at": "2026-11-10T06:12:23.538Z",
+  "updated_at": "2026-11-10T06:51:11.948Z",
   "supervisors": [],
   "photos": [
     {
@@ -29,7 +29,9 @@
       "gdrive_file_id": "1McPHELLhZFdFxlo79VdFlp4zBn9UYJsr",
       "gdrive_view_url": "https://drive.google.com/file/d/1McPHELLhZFdFxlo79VdFlp4zBn9UYJsr/view",
       "gdrive_folder_url": "https://drive.google.com/drive/folders/1-xCrWzQVnzgeLH2jkwFd6Wpfbb1goXZM",
-      "storage_provider": "github+gdrive"
+      "storage_provider": "github+gdrive",
+      "trashed": true,
+      "trashed_at": "2026-11-10T06:51:11.283Z"
     },
     {
       "id": "gis_1794127719766_jlkq9",
