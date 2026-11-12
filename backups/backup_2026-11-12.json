@@ -1,0 +1,50 @@
+{
+  "backup_version": "2.0",
+  "backup_created_at": "2026-11-12T07:14:38.270Z",
+  "backup_label": "نسخة احتياطية تلقائية (2026-11-12)",
+  "backup_folder_date": "2026-11-12",
+  "active_photos_count": 1,
+  "total_records_count": 1,
+  "project": "مشروع تصريف مياه الأمطار - شركة اليمامة",
+  "supervisors": [],
+  "gis_pin": "OCTVIC1234",
+  "gdrive_config": {
+    "enabled": true,
+    "webappUrl": "https://script.google.com/macros/s/AKfycbwJDR5t6TfH6J2rQZO_2nJVHynHM-7qPhgV_Uv-mWfcRWH7aeTmDA9t391Zpv056RN1XA/exec",
+    "folderId": "",
+    "mode": "auto_overflow",
+    "overflowThreshold": 80,
+    "rootFolderUrl": "https://drive.google.com/drive/folders/1h-VWN18PFHapR3zL9UbDPFXd3ij7zuYu"
+  },
+  "photos": [
+    {
+      "id": "gis_1794127719766_jlkq9",
+      "folder_date": "2026-11-08",
+      "upload_timestamp": "2026-11-08T08:48:39.766Z",
+      "capture_date": "2026-11-08T10:03:56+03:00",
+      "supervisor": "مشرف الطوارئ والأمطار 1",
+      "category": "rain_event",
+      "category_label": "حالة مطرية / تجمع مياه",
+      "location_ref": "حي الزمرد - جدة",
+      "notes": "",
+      "latitude": 21.809798,
+      "longitude": 39.067484,
+      "altitude": 14.5,
+      "utm_zone": "37Q",
+      "utm_easting": 506975,
+      "utm_northing": 2411776,
+      "gps_source": "قراءة ذكية من ختم الصورة (OCR UTM)",
+      "camera_model": "",
+      "original_name": "1000129773.jpg",
+      "file_name": "2026-11-08_مشرف_الطوارئ_والأمطا_mw7lbhad_bkgw.jpg",
+      "repo_path": "uploads/2026-11-08/2026-11-08_مشرف_الطوارئ_والأمطا_mw7lbhad_bkgw.jpg",
+      "remote_url": "https://raw.githubusercontent.com/AlYAMAMA-YWP/GIS-Drainage/main/uploads/2026-11-08/2026-11-08_مشرف_الطوارئ_والأمطا_mw7lbhad_bkgw.jpg",
+      "stamped": false,
+      "gdrive_file_id": "1LipthvkKbnE4pQcGoxgcfptjkJRzBAsW",
+      "gdrive_view_url": "https://drive.google.com/file/d/1LipthvkKbnE4pQcGoxgcfptjkJRzBAsW/view",
+      "gdrive_folder_url": "https://drive.google.com/drive/folders/1-xCrWzQVnzgeLH2jkwFd6Wpfbb1goXZM",
+      "storage_provider": "github+gdrive",
+      "updated_at": "2026-11-09T06:54:16.291Z"
+    }
+  ]
+}
